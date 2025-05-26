@@ -1,6 +1,4 @@
-## 👋 Hi, I am Raaed Mirza 
-
-# 👋 Hi, I'm Raaed Mirza
+# 👋 Hi, I am Raaed Mirza 
 
 🎓 Computer Science Student @ Carleton University  
 💡 Honours Concentration in Artificial Intelligence & Machine Learning  
