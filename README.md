@@ -2,6 +2,7 @@
 
 🎓 Computer Science Student @ Carleton University  
 💡 Honours Concentration in Artificial Intelligence & Machine Learning  
+📊 Minor in Statistics  
 📍 Based in Ottawa, ON | 🌐 Open to internships & research opportunities
 
 ---
