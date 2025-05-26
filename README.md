@@ -1,16 +1,36 @@
-## Hi there 👋
+## 👋 Hi, I am Raaed Mirza 
 
-<!--
-**Raaed-Mirza/Raaed-Mirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Raaed Mirza
 
-Here are some ideas to get you started:
+🎓 Computer Science Student @ Carleton University  
+💡 Honours Concentration in Artificial Intelligence & Machine Learning  
+📍 Based in Ottawa, ON | 🌐 Open to internships & research opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a passionate developer and student exploring the intersection of software engineering and artificial intelligence. I enjoy building clean, scalable systems and learning new technologies by building real-world projects. Whether it's crafting neural networks from scratch, contributing to open source, or diving into frontend frameworks — I love learning by doing.
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages:** Python, Java, JavaScript, HTML/CSS  
+**Frameworks:** React, Next.js, Flask, Tailwind CSS  
+**Libraries:** NumPy, Pandas, Scikit-Learn, StatsModels  
+**Developer Tools:** Git, VS Code, Jupyter Notebook, IntelliJ, Firebase  
+**Other:** MongoDB, Prisma, FastAPI
+
+---
+
+
+## 🤝 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/raaed-mirza/)
+- 📫 Email: raaedmirza@gmail.com
+
+---
+
+_“The best way to learn is to build.”_
+
