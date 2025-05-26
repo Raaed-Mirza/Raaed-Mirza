@@ -1,4 +1,4 @@
-# 👋 Hi, I am Raaed Mirza 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=2BF01D&background=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Raaed+Mirza)](https://git.io/typing-svg)
 
 🎓 Computer Science Student @ Carleton University  
 💡 Honours Concentration in Artificial Intelligence & Machine Learning  
