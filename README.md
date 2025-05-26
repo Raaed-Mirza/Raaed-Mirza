@@ -43,3 +43,8 @@ I'm a passionate developer and student exploring the intersection of software en
 
 _“The best way to learn is to build.”_
 
+---
+
+<p align="center">
+  <img src="https://github.com/Raaed-Mirza/Raaed-Mirza/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
