@@ -41,7 +41,11 @@ I'm a passionate developer and student exploring the intersection of software en
 
 ---
 
-_“The best way to learn is to build.”_
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+  </a>
+</p>
 
 ---
 
