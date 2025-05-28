@@ -47,10 +47,11 @@ I'm a passionate developer and student exploring the intersection of software en
 ---
 
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" alt="Readme Quotes" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/194400/66716967-bd34aa00-edcb-11e9-9f04-db549a770707.gif" alt="Yoda Coding GIF" width="400"/>
 </p>
+
+
+
 
 ---
 
