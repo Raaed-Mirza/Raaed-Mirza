@@ -26,7 +26,12 @@ I'm a passionate developer and student exploring the intersection of software en
 
 ---
 
+## 📊 GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raaed-Mirza&layout=compact&theme=chartreuse-dark&exclude_repo=S-P-500-Stock-Analysis-Optimization,Real-Estate-Price-Predictor-App" alt="Top Languages" />
+
+
+---
 
 ## 🤝 Let's Connect!
 
@@ -43,7 +48,7 @@ I'm a passionate developer and student exploring the intersection of software en
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" alt="Readme Quotes" />
   </a>
 </p>
 
