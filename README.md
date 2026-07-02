@@ -17,11 +17,15 @@ I'm a passionate developer and student exploring the intersection of software en
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,java,js,ts,html,css,c,cpp,r,rust)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,python,ts,js,java,c,sql,html,css)](https://skillicons.dev)
 
-### Frameworks & Tools
+### Frameworks & Libraries
 
-[![Frameworks & Tools](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,flask,linux,sqlite,git,github,vscode)](https://skillicons.dev)
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,flask,opencv,sklearn)](https://skillicons.dev)
+
+### Developer Tools
+
+[![Developer Tools](https://skillicons.dev/icons?i=linux,git,github,vscode,sqlite,mongodb)](https://skillicons.dev)
 
 
 ---
