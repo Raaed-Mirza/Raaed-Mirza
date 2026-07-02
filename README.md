@@ -17,7 +17,7 @@ I'm a passionate developer and student exploring the intersection of software en
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=cpp,python,ts,js,java,c,sql,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,python,ts,js,java,c,html,css)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 
